@@ -1,9 +1,4 @@
-### Olá!!, eu sou o Eduardo Bach
 
-
-
-- 🔭 Atualmente estou desempregado 
-- 🌱 Estudando Javascript
 
  <div>
   <a href="https://github.com/EduardoBach">
