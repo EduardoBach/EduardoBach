@@ -2,6 +2,7 @@
 ## Hi, i'm Eduardo 👋
 - I live in :brazil:
 - I'm a novice web developer :computer:
+- Studying javascript ⌨
 
 ## My Skills
 <div style="display: inline_block"><br>
