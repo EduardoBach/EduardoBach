@@ -1,8 +1,8 @@
 
-## Hi, i'm Eduardo 👋
-- I live in :brazil:
-- I am a web developer :computer:
-- Studying javascript ⌨
+## Hi, i'm Eduardo ☂️
+- I live in brazil ✝️
+- I am a web developer ♾️
+- Studying javascript ☯️
 
 ##
 <div>
